@@ -1,0 +1,20 @@
+.paper{
+    margin-top: 8em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+.avatar {
+    margin: 1em;
+
+    background-color: red;
+}
+.form {
+    width: '100%'; // Fix IE 11 issue.
+    margin-top: 1em;
+  }
+
+.submit {
+    margin: 3em;
+  }
